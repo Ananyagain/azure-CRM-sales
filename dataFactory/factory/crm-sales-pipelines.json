@@ -1,0 +1,15 @@
+{
+	"name": "crm-sales-pipelines",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6547f09c-cd08-49d9-87f5-654315c5ba72",
+		"tenantId": "298da10b-de53-4967-8dc2-8cc1dea4b2c4"
+	}
+}
